@@ -1,0 +1,62 @@
+[
+  {
+    "type": "body",
+    "description": "Stretch one arm with hand palm facing forward and pull your fingers back for 10 seconds per hand.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Stretch your arm against your chest and pull it using your other arm for 10 seconds per arm.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Pull your neck to the right from the top of your head for 10 seconds, and then pull it to the left.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "With both hands behind your back, move it down, while stretching the back of your head for 10 seconds.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Cross your legs and try to reach the floor with your hands for 10 seconds. Switch legs and do it again.",
+    "amount": 100
+  },
+  {
+    "type": "body",
+    "description": "While sitting, spread your legs and try to touch the floor with the palm of your hands; do it 3 times, for 5 seconds.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Pull one knee against your chest and hold it for 10 seconds; repeat for the other knee.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "While sitting, cross one leg and lean your chest forward; switch legs after 10 seconds.",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "While sitting, close your eyes and cover them with your hands for 2 minutes, and then open your eyes.",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "In an open environment, look as far away as possible in all four directions for 3 seconds, moving only your eyes. Repeat 3 times.",
+    "amount": 140
+  },
+  {
+    "type": "eye",
+    "description": "Using your thumbs, massage the area below your eyebrows in circles for 15 seconds.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Stand up, twist your waist as much as possible to the left for 5 seconds. Repeat to the right.",
+    "amount": 90
+  }
+]
