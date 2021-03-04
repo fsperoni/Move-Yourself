@@ -8,7 +8,7 @@ export function Profile() {
 
     return (
         <div className={styles.profileContainer}>
-            <img src=""/icons/anonymous.png"" alt="Anonymous User" />
+            <img src="/icons/anonymous.png" alt="Anonymous User" />
             <div>
                 <strong>Anonymous User</strong>
                 <p>
