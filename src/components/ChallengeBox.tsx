@@ -49,7 +49,7 @@ export function ChallengeBox() {
                 </div>
             ): (
                 <div className={styles.challengeNotActive}>
-                <strong>Finish a cycle to receive challenge(s) to be completed</strong>
+                <strong>Finish a cycle to receive a challenge</strong>
                 <p>
                     <img src="icons/level-up.svg" alt="Level up" />
                     Complete challenges to advance levels.
